@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonLauran
 - 👀 I’m interested in programming of all sorts
-- 🌱 I’m currently learning HTML and hacking
+- 🌱 I’m currently learning C# with Unity
 - 📫 How to reach me leonlauran@gmail.com
 
 <!---
